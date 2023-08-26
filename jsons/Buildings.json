@@ -53,8 +53,8 @@
 		"replaces": "Walls",
 		"cost": 65,
 		"uniqueTo": "Great Republic",
-		"cityStrength": 6,
-		"cityHealth": 100,
+		"cityStrength": 10,
+		"cityHealth": 1000,
 		"hurryCostModifier": 25,
 		"requiredTech": "Masonry",
 		"uniques": ["Destroyed when the city is captured"]
