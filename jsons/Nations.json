@@ -52,7 +52,7 @@
 			"Enables embarkation for land units <starting from the [Ancient era]>", "Enables [All] units to enter ocean tiles <starting from the [Ancient era]>", "[+1] Sight <for [Embarked] units>",
 			"[+50]% [Food] from City-States","[+50]% [Culture] from City-States","[+50]% [Faith] from City-States","Military Units gifted from City-States start with [+10] XP",
 			"100 Gold for discovering a Natural Wonder (bonus enhanced to 500 Gold if first to discover it)","[+3 Happiness] for every known Natural Wonder", "[+250]% Yield from every [Natural Wonder]",
-			"Receive triple Gold from Barbarian encampments and pillaging Cities", "Defense bonus when embarked <for [All] units>", "[{Military} {Land}] units gain the [Amphibious] promotion",
+			"Receive triple Gold from Barbarian encampments and pillaging Cities", "Defense bonus when embarked <for [All] units>", "[All] units gain the [Amphibious] promotion",
 			"+30% Strength when fighting City-State units and cities", "[+3] Movement <for [Mounted] units>",
 			"Earn [100]% of killed [Military] unit's [Strength] as [Culture]",
 			"Units ignore terrain costs when moving into any tile with Hills", "[-50]% maintenance on road & railroads", "No Maintenance costs for improvements in [Hill] tiles",
@@ -64,8 +64,8 @@
 			"[+1 Faith] [in all cities] <with [1] to [2] neighboring [unimproved] [Forest] tiles>", "[+2 Faith] [in all cities] <with [3] to [6] neighboring [unimproved] [Forest] tiles>", "[-75]% Natural religion spread [in all cities]",
 			"[+100]% Strength <when fighting units from a Civilization with more Cities than you>", "[-10]% Culture cost of adopting new Policies", "[+25]% [Science] [in annexed cities]", "[+100]% [Culture] [in all cities] <during a Golden Age>", "[Great Artist] is earned [100]% faster <during a Golden Age>",
 		        "[-50]% maintenance costs <for [Sword] units>", "[-50]% maintenance costs <for [Gunpowder] units>", "[+100]% XP gained from combat <for [Military] units>", "[+3 Culture, +3 Gold] from each Trade Route", "[+100]% [Gold] [in capital]", "Receive free [Great Merchant] when you discover [Optics]",
-		        "[+300]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>", "[-25]% Culture cost of natural border growth [in all cities]", "[+3 Gold] from every [Luxury resource]", "[All] units gain the [March] promotion", "[+100]% Yield from every [Fishing Boats]", "[+100]% Yield from every [Great Improvement]",
-	                "[+300]% Strength <for [All] units> <when fighting in [Foreign Land] tiles>", "[+100]% Yield from every [Mine]", "[+100]% Yield from every [Farm]", "[+100]% Yield from every [Camp]", "[+100]% Yield from every [Mine]", "[+100]% Yield from every [Plantation]"]
+		        "[+500]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>", "[-25]% Culture cost of natural border growth [in all cities]", "[+3 Gold] from every [Luxury resource]", "[All] units gain the [March] promotion", "[+100]% Yield from every [Fishing Boats]", "[+100]% Yield from every [Great Improvement]",
+	                "[+500]% Strength <for [All] units> <when fighting in [Foreign Land] tiles>", "[+100]% Yield from every [Mine]", "[+100]% Yield from every [Farm]", "[+100]% Yield from every [Camp]", "[+100]% Yield from every [Mine]", "[+100]% Yield from every [Plantation]"]
 		 
 	        "cities": ["Great City", "Wersa", "Frano", "Mirpo", "Qures", "Kali", "Cater", "Lomangan", "Iodan", "Prutor", "Youna", "Zaroone", "Tenyu", "Kirluna", "Wesdan", "Porluna", "Gunada", "Lakes Velocity", "Hope City", "Xen", "Brunai", "Jarna", "Uwa", "Kana"]
 	},
