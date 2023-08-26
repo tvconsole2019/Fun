@@ -272,17 +272,6 @@
 		"percentStatBonus": {"culture": 25},
 		"uniqueTo": "Great Republic",
     },
-	{
-		"name": "Great Coffee Act",
-		"isNationalWonder": true,
-		"requiredTech": "Replaceable Parts",
-		"cost": 767,
-		"maintenance": 2,
-		"uniqueTo": "Great Republic",
-		"uniques": ["[+1 Production] from [Plantation] tiles [in all cities]","[+1 Production, +1 Culture, +1 Gold] from [Coffee] tiles [in all cities]",
-			"Provides [4] [Coffee]",
-			"[-3 Happiness]","Destroyed when the city is captured"],
-    },
 	{ 
 		"name": "Great Veterinary",
 		"requiredTech": "Fertilizer",
