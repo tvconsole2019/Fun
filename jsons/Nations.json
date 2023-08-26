@@ -36,7 +36,7 @@
 			"[-50]% City-State Influence degradation", "City-State Influence recovers at twice the normal rate", "City-State territory always counts as friendly territory",
 			"Great General provides double combat bonus", "[Great General] is earned [50]% faster",
 			"[+100]% Production when constructing [All] wonders [in all cities]",
-			"[+6] Movement <for [Water] units>",
+			"[+6] Movement <for [Water] units>", "[+6] Movement <for [Land] units>",
 			"[+2 Culture] [in all cities] <before discovering [Steam Power]>", "[+2 Culture] [in capital] <starting from the [Ancient era]>", "[+2 Culture] [in capital] <starting from the [Medieval era]>", "[+2 Culture] [in capital] <starting from the [Industrial era]>", "[+2 Culture] [in capital] <starting from the [Atomic era]>",
 		        "[+1 Production] from every [Strategic resource]", "Double quantity of [Horses] produced", "Double quantity of [Iron] produced", "Double quantity of [Uranium] produced",
 			"[+100]% Production towards any buildings that already exist in the Capital",
