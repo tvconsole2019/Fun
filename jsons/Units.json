@@ -5,7 +5,7 @@
 	"uniqueTo": "Great Republic",
 	"unitType": "Civilian",
 	"uniques": ["Can undertake a trade mission with City-State, giving a large sum of gold and [45] Influence",
-		"Great Person - [Gold]", "Unbuildable", "Uncapturable"
+		"Great Person - [Gold]", "Unbuildable", "Uncapturable", "Can instantly construct a [Customs house] improvement <by consuming this unit>",
 	],
 	"movement": 10
         }
